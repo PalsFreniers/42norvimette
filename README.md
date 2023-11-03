@@ -1,4 +1,4 @@
-# 42 Novimette
+# 42 Norvimette
 
 this plugin is a plugin that add warnings on the left of your file when you have norm errors
 
@@ -20,4 +20,4 @@ Plug 'Strong214356/42norvimette'
 
 # Special thanks
 
-special thanks to [**`hydrasho / Nda-cunh, Nathan`**](https://gitlab.com/hydrasho) for thee plugin parsing and implementation you can find his wwork on gitlab
+special thanks to [**`hydrasho / Nda-cunh, Nathan`**](https://gitlab.com/hydrasho) for the plugin implementation

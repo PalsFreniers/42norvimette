@@ -15,7 +15,7 @@ put the `norm.vim` that in the plugin folder in your `$HOME/.vim/plugin` folder
 add this line in the plugin section of your .vimrc
 
 ```vimscript
-Plug 'Strong214356/libft_42'
+Plug 'Strong214356/42norvimette'
 ```
 
 # Special thanks

@@ -4,7 +4,7 @@ noremap <F4>		<Esc>:call ToggleNorm()<CR>
 inoremap <F4>		<Esc>:call ToggleNorm()<CR>i
 
 highlight DapBreakpoint ctermfg=135
-sign define NormLinter text=\ ✖ texthl=DapBreakpoint
+sign define NormLinter text=\ ֍ texthl=DapBreakpoint
 
 g:norm_activate = true
 
